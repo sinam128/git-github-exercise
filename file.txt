@@ -4,15 +4,4 @@ third commit from sinam128:main
 first commit from sinam128:main/develop
 second commit from sinam128:main/develop
 first commit from sinam128:main/feature
-<<<<<<< HEAD
-<<<<<<< HEAD
-second commit from sinam128:main/feature
-third commit from sinam128:main/feature
-fourth commit from sinam128:main/feature
-=======
-second commit from sinam128:main/feature
->>>>>>> a81f547 (second commit from sinam128:main/feature)
-=======
-second commit from sinam128:main/feature
-third commit from sinam128:main/feature
->>>>>>> 3f0c122 (third commit from sinam128:main/feature)
+first commit after rebase from sinam128:main/feature
